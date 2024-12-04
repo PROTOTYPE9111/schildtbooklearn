@@ -12,8 +12,7 @@ int main() {
     cout << "Enter the width: ";
     cin >> width;
 
-    cout << "The area is: ";
-    cout << length * width; 
+    cout << "The area is: " << length * width; // вместо написания в 2 строчки можно писать сразу в одну строчку
 
     return 0;
 
