@@ -11,7 +11,7 @@ int main() {
     cout << "Enter the length in feet: ";
     cin >> f; 
     
-    m = f / 3.28;
+    m = f / 3.0;
     cout << f << " feet is " << m << " meters ";
 
     return 0;
