@@ -32,7 +32,7 @@ int main(){
                     "  “The franchise which the patent grants consists altogether in the right to exclude everyone from making, using or vending the patented article, without the permission of the patentee. This is all he obtains by the patent.” Bloomer v. McQuewan, 55 U.S. 539, 549 (1852).\n"
                     "  “What, exactly, is a patent and how does it operate to foster the progress of the useful arts’? In its simplest terms a patent is an agreement between an inventor and the public, represented by the federal government: in return for a full public disclosure of the invention the inventor is granted the right for a fixed period of time to exclude others from making, using, or selling the defined invention in the United States. It is a limited monopoly, designed not primarily to reward the inventor (this may or may not follow), but to encourage a public disclosure of inventions so that after the monopoly expires, the public is free to take unrestricted advantage of the invention.” Earl W. Kintner & Jack L. Lahr, An Intellectual Property Law Primer 7–11 (2d ed. 1982)." << endl;
             cout << "\n";
-            cout << "\033[3m\u00A9 2023 \033[0m\033[3mmade by Prototype\033[0m" << endl; // Использую специальные ANSI-коды для форматирования текста
+            cout << "\033[3m\u00A9 2023 \033[0m\033[3mmade by Prototype\033[0m" << endl; // Использую специальные ANSI-коды и Unicode для форматирования текста
         break;
     default:
     cout << "In development/ error / not found /" << endl;

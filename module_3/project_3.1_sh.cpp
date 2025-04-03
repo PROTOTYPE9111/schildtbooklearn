@@ -16,7 +16,7 @@ int main(){
     cin >> guess;
 
     if (guess == magic) cout << "**RIGHT**";
-    else cout << "...Sorry, you are wrong.";
+    else cout << "...Sorry, you are wrong."; 
 
     return 0;
 }
