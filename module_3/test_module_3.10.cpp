@@ -10,7 +10,7 @@
  using namespace std;
  
  int main() {
-     for (int x = 1; x < 10000; ) {
+     for (int x = 1; ; x < 1000) {
          cout << x << " ";
          x *= 2;
      }
