@@ -10,8 +10,9 @@
  using namespace std;
  
  int main() {
-     for (int i = 1; i < 100; i +=i ) {
+     for (int i = 1; i < 100;  ) {
          cout << i << " ";
+         i *= 2;
      }
      cout << endl;
      return 0;
