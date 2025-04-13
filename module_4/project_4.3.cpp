@@ -17,4 +17,4 @@ int main(){
     }
 }
 
-//посмотрите пример в schildtbooklearn/module_4/project_4.3.png
+//посмотрите схему в schildtbooklearn/module_4/project_4.3.png
