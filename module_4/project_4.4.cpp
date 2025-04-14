@@ -2,7 +2,7 @@
 //считывание строк с клавиатуры без ошибок
 
 #include <iostream>
-
+#include <cstdio> // for gets
 using namespace std;
 
 int main(){
