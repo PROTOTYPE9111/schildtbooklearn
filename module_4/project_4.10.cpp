@@ -1,5 +1,5 @@
 //schildtbooklearn (p.175)
-// присваивание 
+// присваивание, инкременирование и декременирование
 
 #include <iostream>
 using namespace std;
