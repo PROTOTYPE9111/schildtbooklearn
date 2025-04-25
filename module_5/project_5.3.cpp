@@ -11,7 +11,7 @@ int main(){
 }
 void power (int base, int exp){
     int i;
-    if (exp < 0) return;
+    if (exp < 0) return; // дальше не делаем если отрицательное
 
     i = 1;
     for ( ; exp; exp--) i = base * i;
