@@ -1,4 +1,4 @@
-//schildtbooklearn (p.213)
+//schildtbooklearn (p.214)
 // передача функции указателя
 
 #include <iostream>
