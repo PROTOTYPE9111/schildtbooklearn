@@ -1,3 +1,5 @@
+// Задание от Koshkej
+// работа и повтор темы указателей + использование функции 
 #include <iostream>
 using namespace std;
 
