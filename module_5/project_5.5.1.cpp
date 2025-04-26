@@ -1,5 +1,5 @@
 //schildtbooklearn (p.216)
-// передача массива в функцию
+// передача массива в функцию 1 способ
 
 #include <iostream>
 using namespace std;
