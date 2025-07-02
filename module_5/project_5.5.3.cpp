@@ -1,5 +1,5 @@
 //schildtbooklearn (p.216)
-// передача массива в функцию 3 способ
+// передача массива в функцию 3 способ (самый используемый)
 
 #include <iostream>
 using namespace std;
