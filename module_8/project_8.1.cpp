@@ -26,8 +26,7 @@ int main(){
     */
    range = minivan.fuelcap * minivan.mpg;
    cout << "Minivan can carry " << minivan.passengers <<
-   "with a range of " << range << "\n";
+   " with a range of " << range << "\n";
 
    return 0;
-
 }
