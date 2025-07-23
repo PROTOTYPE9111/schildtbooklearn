@@ -39,6 +39,6 @@ int main(){
    cout << "Sportscar can carry " << sportscar.passengers <<
    " with a range of " << range2 << "\n";
 
-   return 0; 
+   return 0;
 
 }
