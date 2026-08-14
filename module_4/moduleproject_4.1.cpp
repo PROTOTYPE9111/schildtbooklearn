@@ -30,4 +30,4 @@ int main(){
         cout << endl;
         for(t = 0; t < size; t++) cout << nums[t];
         return 0;
-}
+    }
