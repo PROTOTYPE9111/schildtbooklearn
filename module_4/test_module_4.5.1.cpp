@@ -18,7 +18,7 @@ int main(){
 
     //повторяем цикл
 
-while (*p1 && p2){
+while (*p1 && *p2){
     if (tolower(*p1) != tolower(*p2)) break;
     else{
         p1++;
